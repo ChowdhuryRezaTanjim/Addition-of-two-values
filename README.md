@@ -1,5 +1,4 @@
-# Addition-of-two-values
-
+//addition of two values
 
 #include<stdio.h>
 int main()
